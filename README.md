@@ -97,7 +97,7 @@
 
 ### Все поставленные задачи выполнены. Роль `vector-role` имеет полностью рабочий и протестированный сценарий Molecule, обеспечивающий проверку ее функциональности на ключевых дистрибутивах Linux.
 
-## Сылка: `vector-role` https://github.com/Dmitriy-py/vector-role
+## Сылка: `vector-role` https://github.com/Dmitriy-py/vector-role  [![GitHub tag](https://img.shields.io/github/v/tag/Dmitriy-py/vector-role?sort=semver&color=blue)](https://github.com/Dmitriy-py/vector-role/releases)
 
 
 
