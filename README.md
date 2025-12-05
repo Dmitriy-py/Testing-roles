@@ -1,4 +1,4 @@
-# Домашнее задание к занятию 5 «Тестирование roles»
+<img width="1920" height="1080" alt="Снимок экрана (1977)" src="https://github.com/user-attachments/assets/1d7476c7-a678-4207-9979-88c44cd13055" /># Домашнее задание к занятию 5 «Тестирование roles»
 
 ## ` Дмитрий Климов `
 
@@ -30,6 +30,8 @@
 *   **Testinfra:** 6.x (версия, установленная через `pip3`)
 *   **Docker:** Установлен и работает на вашей машине.
 *   **Git:** Установлен для контроля версий.
+
+<img width="1920" height="1080" alt="Снимок экрана (1977)" src="https://github.com/user-attachments/assets/b048377f-9870-4546-830f-54bbc134be59" />
 
 ### Основная Часть Задания
 
@@ -85,6 +87,15 @@
     *   **`converge`:** Успешно установил Vector.
     *   **`idempotence`:** Убедился, что повторное применение роли не вносит изменений.
     *   **`verify`:** Подтвердил корректность установки и наличия файлов через Testinfra.
+
+    <img width="1920" height="1080" alt="Снимок экрана (1973)" src="https://github.com/user-attachments/assets/a3b115b4-b470-4516-9862-baeaa3d58779" />
+
+<img width="1920" height="1080" alt="Снимок экрана (1974)" src="https://github.com/user-attachments/assets/66823b95-2bd1-48ac-a1fa-b5a70fa50b06" />
+
+<img width="1920" height="1080" alt="Снимок экрана (1975)" src="https://github.com/user-attachments/assets/95f52d5f-1667-4358-a94a-d5b54d3a8ef9" />
+
+<img width="1920" height="1080" alt="Снимок экрана (1976)" src="https://github.com/user-attachments/assets/2e198622-90c9-4eb6-a6f6-615b7ef899e9" />
+
 
 #### 5. **Добавление нового тега на коммит**
 
