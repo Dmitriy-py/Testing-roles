@@ -88,7 +88,7 @@
     *   **`idempotence`:** Убедился, что повторное применение роли не вносит изменений.
     *   **`verify`:** Подтвердил корректность установки и наличия файлов через Testinfra.
 
-    <img width="1920" height="1080" alt="Снимок экрана (1973)" src="https://github.com/user-attachments/assets/a3b115b4-b470-4516-9862-baeaa3d58779" />
+<img width="1920" height="1080" alt="Снимок экрана (1973)" src="https://github.com/user-attachments/assets/a3b115b4-b470-4516-9862-baeaa3d58779" />
 
 <img width="1920" height="1080" alt="Снимок экрана (1974)" src="https://github.com/user-attachments/assets/66823b95-2bd1-48ac-a1fa-b5a70fa50b06" />
 
